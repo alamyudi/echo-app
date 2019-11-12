@@ -1,0 +1,4 @@
+mysql-data/
+vendor/
+
+.DS_Store

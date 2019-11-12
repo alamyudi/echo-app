@@ -1,0 +1,16 @@
+[
+    {
+        "product_id" : "com.echokit.weekly.silver",
+        "product_name" : "Weekly Silver Subscription",
+        "product_desc" : "Weekly silver package subsription. 10 financial news everyday, the news is come from our teams, looking up to political, law, and security in Indonesia. 5 financial investment suggestion everyday, is the article/news that give an summary or suggestion to user who want to investment in Indonesia.",
+        "product_image": "21-01-2019-1935.png",
+        "product_price": 5000
+    },
+    {
+        "product_id" : "com.echokit.weekly.gold",
+        "product_name" : "Weekly Gold Subscription",
+        "product_desc" : "Weekly gold package subsription. 50 financial news everyday, the news is come from our teams, looking up to political, law, and security in Indonesia. 30 financial investment suggestion everyday, is the article/news that give an summary or suggestion to user who want to investment in Indonesia.",
+        "product_image": "21-01-2019-1934.png",
+        "product_price": 10000
+    }
+]

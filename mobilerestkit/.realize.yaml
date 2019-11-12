@@ -1,0 +1,35 @@
+settings:
+  files:
+    outputs:
+      status: false
+      name: outputs.log
+    logs:
+      status: false
+      name: logs.log
+    errors:
+      status: false
+      name: errors.log
+  legacy:
+    force: false
+    interval: 100ms
+server:
+  status: false
+  open: false
+  host: localhost
+  port: 8081
+schema:
+- name: mobilerestkit
+  path: .
+  commands:
+    install:
+      status: true
+    run:
+      status: true
+  watcher:
+    paths:
+    - ./
+    - ../echokit/
+    extensions:
+    - go
+    ignored_paths:
+    - vendor
